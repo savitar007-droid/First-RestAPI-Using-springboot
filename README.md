@@ -1,2 +1,2 @@
 # First-RestAPI-Using-springboot
-Learning springboot..
+Learning springboot.. is not very fun 
